@@ -13,3 +13,8 @@ Here  are some examples:
 <p align="center">
 <img src="http://data.kaizhao.net/projects/fmeasure-saliency/f-thres.svg" width=400px>
 </p>
+
+* [Thres variation](thres-variation/)
+<p align="center">
+<img src="http://data.kaizhao.net/projects/fmeasure-saliency/thres-variation.svg" width=400px>
+</p>
