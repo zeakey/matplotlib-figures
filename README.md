@@ -1,4 +1,4 @@
-<h1 align="center">Bag of Examples of Plotting Figures for Academic Papers.</h1>
+<h1 align="center">Bag of Examples of Plotting Figures in Academic Papers.</h1>
 
 This repo is a collection of figures in my co-authored papers.
 These figures are mainly made by [matplotlib](https://matplotlib.org/).
